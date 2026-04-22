@@ -87,6 +87,7 @@ DB_NAME=petshop_db
 DB_USER=root
 DB_PASSWORD=senha_mysql
 DB_LOGGING=false
+CORS_ORIGINS=http://localhost:5173,http://localhost:5174
 JWT_SECRET=uma_chave_segura
 JWT_EXPIRES_IN=1d
 CEP_API_BASE_URL=https://viacep.com.br/ws
